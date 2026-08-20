@@ -37,6 +37,6 @@ st.subheader("Uso de Botones")
 if st.button('Presiona el botón'):
     st.write('Gracias por presionar')
       else:
-    st.write('No has presionado aún)
+    st.write('No has presionado aún')
   
 
