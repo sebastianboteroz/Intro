@@ -5,5 +5,5 @@ st.title("La primera app de Sebastián en Streamlit")
 
 st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales")
 st.write("Facilmente puedo realizar backend y frontend")
-image = Image.open("")
+image = Image.open("piedras.jpg")
 st.image(image, caption="Interfaces Multimodales")
